@@ -43,6 +43,6 @@ This project demonstrates the use of Java Swing, event handling, and GUI compone
 
 ## 📌 Future Improvements
 
--Save Registrations to a file or database.
--Add search anf filter features.
--Implement User Authentication.
+- **Save** registrations to a file or database.
+- **Implement** user authentication
+
