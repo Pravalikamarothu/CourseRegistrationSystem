@@ -30,13 +30,18 @@ This project demonstrates the use of Java Swing, event handling, and GUI compone
    ```bash
    javac CourseRegistrationSystem.java
 5. Run the program:
+   ```bash
    java CourseRegistrationSystem
 
-**##**📸**SCREENSHOTS**
+---
+
+**##📸SCREENSHOTS**
 
 <img width="1107" height="678" alt="output" src="https://github.com/user-attachments/assets/b533fd63-f0e4-41dc-8dad-1c18c1c7fe88" />
 
-**##**📌**FUTURE IMPROVEMENTS**
+---
+
+**##📌FUTURE IMPROVEMENTS**
 
 -Save Registrations to a file or database.
 -Add search anf filter features.
